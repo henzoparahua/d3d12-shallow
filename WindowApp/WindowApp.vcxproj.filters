@@ -32,6 +32,9 @@
     <ClInclude Include="GraphicsError.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="d3dx12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="VertexShader.hlsl" />
